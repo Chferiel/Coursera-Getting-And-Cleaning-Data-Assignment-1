@@ -2,6 +2,7 @@
 ----------------------------
 This is the codebook for the dataset that describes the variables, the data, and any transformations or work that were performed to clean up the Smartphone data obtained from the UCI Machine Learning Repository as part of the final assignment in the course "Getting And Cleaning Data" from Coursera.
 
+````
 subject                    1..30
     Subject number
                            1..30 Unique identifier assigned to each subject
@@ -210,6 +211,7 @@ fbodybodygyrojerkmagmean   Signed value between 0 and 1
 
 fbodybodygyrojerkmagstd    Signed value between 0 and 1
     Described below
+````
 
 ## Codebook for the original dataset
 ------------------------------------
